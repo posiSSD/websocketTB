@@ -1,0 +1,29 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "Prueba de WS para TOTALBET",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/posiSSD/websocketTB.git"
+  },
+  "keywords": [
+    "WS",
+    "TB",
+    "Posi",
+    "SSD"
+  ],
+  "author": "posiSSD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/posiSSD/websocketTB/issues"
+  },
+  "homepage": "https://github.com/posiSSD/websocketTB#readme",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "ws": "^8.13.0"
+  }
+}
